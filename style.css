@@ -1,0 +1,43 @@
+body {
+background: #fefefe;
+}
+section {
+    background: #ffffff
+}
+
+
+        .main-heading {
+            color: #92140C;
+        }
+       
+       .secondary-heading {
+            color: #ee5555;
+        }
+        
+
+        .special-heading {
+            color: #21A179;
+        }
+
+        p {
+            color: #1460AA;
+        }
+
+       
+            
+        
+
+        a {
+            color: lime;
+        }
+        nav a {
+            color: #a70744
+        }
+
+        .header {
+            background: #f5a9a9;
+        }
+
+        .header-link {
+            background: #a72727;
+        }
